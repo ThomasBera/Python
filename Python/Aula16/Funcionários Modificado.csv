@@ -1,0 +1,9 @@
+Cód,Nome,Cidade,Salário,Data_Nasc,Cidade/UF,Salário+10%
+1,Maria,Sorocaba,1500,1990-01-19,Sorocaba/SP,1650.0000000000002
+2,Pedro,Votorantim,2500,2000-02-29,Votorantim/SP,2750.0
+3,João,Piedade,3000,2001-03-07,Piedade/SP,3300.0000000000005
+4,José,Sorocaba,3500,1976-04-15,Sorocaba/SP,3850.0000000000005
+5,Bruno,Piedade,1300,2001-08-29,Piedade/SP,1430.0000000000002
+6,Vanessa,Sorocaba,1900,1996-05-11,Sorocaba/SP,2090.0
+7,Marcos,Votorantim,2700,2002-11-24,Votorantim/SP,2970.0000000000005
+8,Miriam,Sorocaba,2100,1999-02-21,Sorocaba/SP,2310.0
